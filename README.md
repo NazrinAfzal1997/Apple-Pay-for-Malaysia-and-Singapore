@@ -15,7 +15,7 @@ Apple Pay on the Web
        - Download the file here [apple-developer-merchantid-domain-association](https://d2x73ruoixi2ei.cloudfront.net/ApplePay/apple-developer-merchantid-domain-association)
    2) Kindly do not alter the filename and follow the following path example : https://www.example.com/.well-known/apple-developer-merchantid-domain-association 
    3) Once the file has be placed at the following path, submit an onboarding request for your merchantID to be enable Apple Pay. 
-        -  via RMS merchant portal
+        -  via Fiuu merchant portal
             - Navigate to Merchant Profile > Profile Settings > Registered Domain 
             - Select domain 
             - Click onboard
@@ -38,6 +38,7 @@ Apple Pay on the App
 
 ### XDK integration
 
-   - [Integrate Apple Pay with Mobile XDK](https://github.com/FiuuPayment/Documentation-Fiuu_API_Spec/blob/main/Fiuu%20Mobile%20XDK%20X%20ApplePay.pdf) documentation 
+   - [Integrate Apple Pay with Mobile XDK](https://github.com/FiuuPayment/Documentation-Fiuu_API_Spec/blob/main/Fiuu%20Mobile%20XDK%20X%20ApplePay%20v1.2.pdf) documentation 
    - [CocoaPods integration](https://cocoapods.org/pods/fiuu-mobile-xdk-cocoapods)  
+
 
